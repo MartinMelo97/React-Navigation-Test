@@ -1,0 +1,3 @@
+rootProject.name = 'reactnavigationtest'
+
+include ':app'
